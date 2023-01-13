@@ -1,0 +1,32 @@
+#inicio a{
+    color: white;
+    text-decoration: none;
+}
+#inicio a:hover {
+    color: grey;
+    text-decoration: none;
+}
+#ofertas-academicas a{
+    color: white;
+    text-decoration: none;
+}
+#ofertas-academicas a:hover{
+    color: grey;
+    text-decoration: none;
+}
+#investigacion a{
+    color: white;
+    text-decoration: none;
+}
+#investigacion a:hover{
+    color: grey;
+    text-decoration: none;
+}
+#acerca-de-nosotros a{
+    color: white;
+    text-decoration: none;
+}
+#acerca-de-nosotros a:hover{
+    color: grey;
+    text-decoration: none;
+}

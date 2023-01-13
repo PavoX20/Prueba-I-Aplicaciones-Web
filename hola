@@ -1,0 +1,37 @@
+
+         <div class="container">
+            <div class="row">
+                <aside class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </aside>
+                <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-4 col-lg-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nam eligendi quo, fugiat vitae modi eum blanditiis ex, consequatur, a corporis atque natus obcaecati ducimus commodi similique dicta aliquam reiciendis.
+                    </p>
+                </div>
+            </div>
+         </div>
